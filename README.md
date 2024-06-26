@@ -14,6 +14,10 @@ This was done on SQL server 2022 involving
 ## Data Visualization:
 Power BI Desktop
 In a corporate setting, results can be shared online on www.powerbi.com 
+![powerbi-1](https://github.com/vignesh/hr_data/assets/27964625/0d485a7e-3ddf-4a20-b158-b60fd8226f55)
+
+![powerbi-2](https://github.com/vignesh/hr_data/assets/27964625/6fc20ddb-fb5e-4349-bee3-7fe714737d60)
+
 
 
 ## Exploratory Data Analysis
