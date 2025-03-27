@@ -5,7 +5,7 @@ Featuring eye-catching dashboards offer crucial HR metrics like employee turnove
 ## Source Data:
 The source data contained Human Resource 22000 records from 2000 to 2020. This is included in the repository.
 
-## Exploratory Data Analysis
+
 ### Questions:
 1)	What's the age distribution in the company?
 2)	What's the gender breakdown in the company?
